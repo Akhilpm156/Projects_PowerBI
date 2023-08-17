@@ -1,4 +1,4 @@
-# Power BI-Excel-Tableau Projects
+# Power BI-Excel-Tableau-Projects
 
 
 ### [Project_1 - Sales Insights](https://github.com/Akhilpm156/Projects_PowerBI/tree/a92e085b15dc4514f7b673fadb2cba072c87cc4c/Sales%20insights%20codebasic)
@@ -16,4 +16,11 @@ Make Sales Dashboard to AtliQ hardware company for their brick & motor business.
 <img src="Sales insights codebasic/Atliq Hardware KPI.JPG" width = 88%/>
 <img src="Sales insights codebasic/Atliq Hardware Profit Analysis.JPG" width = 44%/>
 <img src="Sales insights codebasic/Atliq Hardware Performance.JPG" width = 44%/>
+</p>
+
+### [Project_2 - Excel Dashboard](https://github.com/Akhilpm156/Projects_PowerBI-Excel-Tableau/tree/424e125b0fe5dc99c6fe33e355791573f629872c/Excel%20Dashboard)
+In this project, I created a dashboard using Excel. Initially, I undertook the data cleaning process, followed by the creation of pivot tables and charts to establish the dashboard. Additionally, I implemented a small button that utilizes a macro to remove filtered data.
+
+<p align="center">
+<img src="Excel Dashboard/Excel dashboard.JPG" width = 88%/>
 </p>

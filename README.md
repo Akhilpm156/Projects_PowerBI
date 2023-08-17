@@ -12,8 +12,7 @@ Make Sales Dashboard to AtliQ hardware company for their brick & motor business.
 3. Revenue, Profit margin and Sales Qty metrics.
 4. Visualization representing Revenue Trends, Revenue contribution% and Sales Quantity by Product type.
 5. Representation of customer name, customer type, market name, revenue, revenue contribution%, profit margin% and sales quantity etc for an overall picture of the performance of the company.
-
-<p>
+<p align="center">
 <img src="Sales insights codebasic/Atliq Hardware KPI.JPG" width = 88%/>
 <img src="Sales insights codebasic/Atliq Hardware Profit Analysis.JPG" width = 44%/>
 <img src="Sales insights codebasic/Atliq Hardware Performance.JPG" width = 44%/>

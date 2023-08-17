@@ -24,3 +24,13 @@ In this project, I created a dashboard using Excel. Initially, I undertook the d
 <p align="center">
 <img src="Excel Dashboard/Excel dashboard.JPG" width = 88%/>
 </p>
+
+### [Project_3 - Codex Food and Beverage](https://github.com/Akhilpm156/Projects_PowerBI-Excel-Tableau/tree/998fb5f250b8a9947eda9a6e489713dabd9862fc/Codex%20Food%20and%20Beverage%20project)
+##### About company
+CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
+This project is part of codebasics Resume Projects.Our task is to Analyze the survey results and provide data-driven key insights and recommendations to the Chief Marketing Officer.
+
+<p align="center">
+<img src="Codex Food and Beverage project/codex.JPG" width = 88%/>
+</p>
+

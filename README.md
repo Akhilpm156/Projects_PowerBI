@@ -1,4 +1,4 @@
-# Power BI Projects
+# Power BI-Excel-Tableau Projects
 
 
 ### [Project_1 - Sales Insights](https://github.com/Akhilpm156/Projects_PowerBI/tree/a92e085b15dc4514f7b673fadb2cba072c87cc4c/Sales%20insights%20codebasic)

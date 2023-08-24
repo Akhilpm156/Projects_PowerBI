@@ -34,3 +34,11 @@ This project is part of codebasics Resume Projects.Our task is to Analyze the su
 <img src="Codex Food and Beverage project/codex.JPG" width = 88%/>
 </p>
 
+### [Project_4 - HR ANALYTICS DASHBOARD](https://github.com/Akhilpm156/Projects_PowerBI-Excel-Tableau/tree/6dd7582c4381bb78eed1f2b6f32a43869bfb34fd/HR%20ANALYTICS)
+
+In this HR Analytics project, I utilized Tableau to create a comprehensive and visually engaging dashboard.
+<p align="center">
+<img src="HR ANALYTICS/Annotation 2023-08-24 152028.png" width = 88%/>
+</p>
+
+[Tableau link](https://public.tableau.com/views/HRANALYTICS_16928613128740/HRANALYTICS?:language=en-US&:display_count=n&:origin=viz_share_link)

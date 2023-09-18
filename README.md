@@ -58,3 +58,21 @@ The Supply Chain team decided to use a standard approach to measure the service 
 <img src="Supply chain data analytics-FMCG/Supply Chain.PNG" width = 40%/>
 </p>
 
+### [Project_6 - Revenue insights in hospitality domain ](https://github.com/Akhilpm156/Projects_PowerBI-Excel-Tableau/tree/7ed2c3abbaa7b114ff50343acceded0e711603da/Revenue%20insights%20in%20hospitality%20domain)
+
+Problem Statement </br>
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. [Data Source --> codebasics.io](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
+Some Insights</br>
+Mumbai generates the highest revenue at 669 million among all the cities.</br>
+Most cancellations occur on weekdays 23k</br>
+The Elite type rooms have the highest number of bookings 36.78%</br>
+In Week 28 & Week 31, the Average Daily Rate (ADR) recorded the highest value among all weeks.</br>
+Delhi has the highest occupancy percentage and rating.</br>
+The Journey online booking platform has the highest ratings recorded.
+
+<p align="center">
+<img src="Revenue insights in hospitality domain/gr.PNG" width = 44%/>
+<img src="Revenue insights in hospitality domain/gr1.PNG" width = 44%/>
+</p>
+

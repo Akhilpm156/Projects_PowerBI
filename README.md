@@ -42,3 +42,19 @@ In this HR Analytics project, I utilized Tableau to create a comprehensive and v
 </p>
 
 [Tableau link](https://public.tableau.com/views/HRANALYTICS_16928613128740/HRANALYTICS?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### [Project_5 - Supply chain data analytics – FMCG domain ](https://github.com/Akhilpm156/Projects_PowerBI-Excel-Tableau/tree/2e843b7f3efafe11837d2f10647ccb0e585372e2/Supply%20chain%20data%20analytics-FMCG)-->[Mysql Eda List](https://github.com/Akhilpm156/SQL_Projects/blob/c93bafb3d114e7f444c3b914837d87ba39ee4a80/Supply%20chain%20data%20analytics-FMCG/fmcg%20supply%20chain.sql)
+
+Problem Statement </br>
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
+
+AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
+
+The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.  [Data Source --> codebasics.io](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
+<p align="center">
+<img src="Supply chain data analytics-FMCG/Home.PNG" width = 88%/>
+<img src="Supply chain data analytics-FMCG/2.PNG" width = 48%/>
+<img src="Supply chain data analytics-FMCG/Supply Chain.PNG" width = 40%/>
+</p>
+
